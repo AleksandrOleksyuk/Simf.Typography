@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: whitesmoke;
+}
+.info_panel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.social img{
+    max-width: 40px;
+    max-height: 40px;
+}
+header{
+    padding-top: 50px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 20px 10px;
+    border-bottom: whitesmoke 3px solid;
+}
+nav a:hover{
+    background-color: #E9E9E9;
+    color: #494949;
+    border-bottom: #494949 3px solid;
+}
+.footer_nav{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.footer_nav a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+}
+.footer_nav a:hover{
+    color: whitesmoke;
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.footer_info{
+    text-align: center;
+}
+.footer_info img{
+    padding: 50px 0px;
+}
+.logo{
+    max-width: 400px;
+    max-height: 80px;
+}
+.info{
+    padding: 125px 0px;
+    border-bottom: #494949 1px solid;
+}
+.info_text{
+    color: #494949;
+    font-size: 30px;
+}
+.info_text h1{
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.info_text hr{
+    max-width: 635px;
+}
+.info_text h2{
+    font-size: 30px;
+}

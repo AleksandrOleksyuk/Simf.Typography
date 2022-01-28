@@ -1,0 +1,536 @@
+@media screen and (max-width: 992px) {
+    .social img{
+        max-width: 30px;
+        max-height: 30px;
+    }
+    .logo{
+        max-width: 150px;
+        max-height: 40px;
+    }
+    .adress{
+        font-size: 13px;
+    }
+    nav{
+        padding-top: 75px;
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+        padding: 15px 7px;
+        font-size: 13px;
+    }
+    nav a:hover{
+        background-color: #E9E9E9;
+        color: #494949;
+        border-bottom: #494949 1px solid;
+    }
+    .info_panel{
+        padding-bottom: 25px;
+        padding-top: 15px;
+    }
+    .info_text{
+        color: #494949;
+        font-size: 23px;
+    }
+    .info_text h1{
+        text-transform: uppercase;
+        font-size: 46px;
+    }
+    .info_text hr{
+        max-width: 490px;
+        margin: 10px 0px;
+    }
+    .info{
+        padding: 65px 0px 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors_h1{
+        text-transform: uppercase;
+        font-size: 46px;
+        text-align: right;
+    }
+    .factors{
+        color: #494949;
+        font-size: 23px;
+        padding: 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors h2{
+        font-size: 24px;
+    }
+    .factor img{
+        max-width: 110px;
+        max-height: 110px;
+        padding: 12px;
+    }
+    .factor{
+        border-top: #494949 2px solid;
+        border-bottom: #494949 2px solid;
+        margin-top: 18px;
+    }
+    .form_section{
+        color: #494949;
+        font-size: 15px;
+        padding: 55px 0px;
+        margin-bottom: 18px
+    }
+    .form input,button{
+        margin-top: 4px;
+        max-width: 310px;
+        min-height: 40px;
+        border: 2px #494949 solid;
+        font-size: 24px;
+    }
+    .form_div h1{
+        font-size: 46px;
+    }
+    .form{
+        padding-top: 15px;
+    }
+    .form p{
+        font-size: 23px;
+    }
+    .footer_nav{
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    .footer_nav a{
+        text-decoration: none;
+        color: white;
+        padding: 15px 7px;
+        font-size: 13px;
+    }
+    .footer_info img{
+        padding: 30px 0px;
+        max-width: 180px;
+        max-height: 180px;
+    }
+    .footer_info p{
+        font-size: 15px;
+    }
+    .products_line{
+        padding: 20px 60px;
+    }
+    .products_lines{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 75px 0px;
+        color: #494949;
+        font-size: 23px;
+        padding: 75px 0px;
+        border-bottom: 1px #494949 solid;
+    }
+    .product{
+        padding: 15px 0px;
+        margin: 12px 0px;
+        border-top: 3px #494949 solid;
+        border-bottom: 3px #494949 solid;
+        max-height: 600px;
+    }
+    .product img{
+        max-width: 100px;
+        max-height: 100px;
+        margin-bottom: 20px;
+    }
+    .product h2{
+        font-size: 23px;
+    }
+    .products_h1{
+        text-transform: uppercase;
+        font-size: 46px;
+        text-align: left;
+        padding-top: 75px;
+    }
+    .products_hr{
+        max-width: 302px;
+        text-align: left;
+    }
+    .souvenir_hr{
+        max-width: 588px;
+        text-align: left;
+    }
+    .delivery_text iframe{
+        max-width: 300px;
+        max-height: 300px;
+        padding-bottom: 30px;
+    }
+    .delivery_text{
+        color: #494949;
+        font-size: 22px;
+        padding-top: 20px;
+        margin-top: 20px;
+        padding-bottom: 50px;
+        margin-bottom: 50px;
+        border-bottom: 3px #494949 solid;
+    }
+    .delivery_text h1{
+        text-transform: uppercase;
+        font-size: 46px;
+    }
+    .delivery_text hr{
+        max-width: 448px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .info_text h2{
+        font-size: 23px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .social img{
+        max-width: 20px;
+        max-height: 20px;
+    }
+    .logo{
+        max-width: 120px;
+        max-height: 25px;
+    }
+    .adress{
+        font-size: 10px;
+    }
+    nav{
+        padding-top: 50px;
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+        padding: 12px 5px;
+        font-size: 10px;
+    }
+    nav a:hover{
+        background-color: #E9E9E9;
+        color: #494949;
+        border-bottom: #494949 1px solid;
+    }
+    .info_panel{
+        padding-bottom: 15px;
+        padding-top: 10px;
+    }
+    .info_text{
+        color: #494949;
+        font-size: 17px;
+    }
+    .info_text h1{
+        text-transform: uppercase;
+        font-size: 30px;
+    }
+    .info_text hr{
+        max-width: 320px;
+        margin: 7px 0px;
+    }
+    .info{
+        padding: 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors_h1{
+        text-transform: uppercase;
+        font-size: 30px;
+        text-align: right;
+    }
+    .factors{
+        color: #494949;
+        font-size: 17px;
+        padding: 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors h2{
+        font-size: 18px;
+    }
+    .factor img{
+        max-width: 80px;
+        max-height: 80px;
+        padding: 12px;
+    }
+    .factor{
+        border-top: #494949 2px solid;
+        border-bottom: #494949 2px solid;
+        margin-top: 18px;
+    }
+    .form_section{
+        color: #494949;
+        font-size: 12px;
+        padding: 55px 0px;
+        margin-bottom: 18px
+    }
+    .form input,button{
+        margin-top: 3px;
+        max-width: 200px;
+        min-height: 30px;
+        border: 2px #494949 solid;
+        font-size: 15px;
+    }
+    .form_div h1{
+        font-size: 30px;
+    }
+    .form{
+        padding-top: 15px;
+    }
+    .form p{
+        font-size: 15px;
+    }
+    .footer_nav{
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    .footer_nav a{
+        text-decoration: none;
+        color: white;
+        padding: 12px 5px;
+        font-size: 10px;
+    }
+    .footer_info img{
+        padding: 30px 0px;
+        max-width: 110px;
+        max-height: 110px;
+    }
+    .footer_info p{
+        font-size: 11px;
+    }
+    .products_line{
+        padding: 13px 46px;
+    }
+    .products_lines{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 50px 0px;
+        color: #494949;
+        font-size: 15px;
+        padding: 45px 0px;
+        border-bottom: 1px #494949 solid;
+    }
+    .product{
+        padding: 15px 0px;
+        margin: 12px 0px;
+        border-top: 2px #494949 solid;
+        border-bottom: 2px #494949 solid;
+        max-height: 400px;
+    }
+    .product img{
+        max-width: 80px;
+        max-height: 80px;
+        margin-bottom: 15px;
+    }
+    .product h2{
+        font-size: 17px;
+    }
+    .products_h1{
+        text-transform: uppercase;
+        font-size: 30px;
+        text-align: left;
+        padding-top: 50px;
+    }
+    .products_hr{
+        max-width: 198px;
+        text-align: left;
+    }
+    .souvenir_hr{
+        max-width: 386px;
+        text-align: left;
+    }
+    .delivery_text iframe{
+        max-width: 200px;
+        max-height: 200px;
+        padding-bottom: 20px;
+    }
+    .delivery_text{
+        color: #494949;
+        font-size: 15px;
+        padding-top: 15px;
+        margin-top: 15px;
+        padding-bottom: 35px;
+        margin-bottom: 35px;
+        border-bottom: 2px #494949 solid;
+    }
+    .delivery_text h1{
+        text-transform: uppercase;
+        font-size: 30px;
+    }
+    .delivery_text hr{
+        max-width: 330px;
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+    .info_text h2{
+        font-size: 17px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .social img{
+        max-width: 15px;
+        max-height: 15px;
+    }
+    .logo{
+        max-width: 90px;
+        max-height: 18px;
+    }
+    .adress{
+        font-size: 7px;
+    }
+    nav{
+        padding-top: 25px;
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+        padding: 10px 3px;
+        font-size: 7px;
+    }
+    nav a:hover{
+        background-color: #E9E9E9;
+        color: #494949;
+        border-bottom: #494949 1px solid;
+    }
+    .info_panel{
+        padding-bottom: 10px;
+        padding-top: 0px;
+    }
+    .info_text{
+        color: #494949;
+        font-size: 12px;
+    }
+    .info_text h1{
+        text-transform: uppercase;
+        font-size: 24px;
+    }
+    .info_text hr{
+        max-width: 255px;
+        margin: 5px 0px;
+    }
+    .info{
+        padding: 35px 0px 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors_h1{
+        text-transform: uppercase;
+        font-size: 24px;
+        text-align: right;
+    }
+    .factors{
+        color: #494949;
+        font-size: 12px;
+        padding: 55px 0px;
+        border-bottom: #494949 1px solid;
+    }
+    .factors h2{
+        font-size: 13px;
+    }
+    .factor img{
+        max-width: 65px;
+        max-height: 65px;
+        padding: 10px;
+    }
+    .factor{
+        border-top: #494949 2px solid;
+        border-bottom: #494949 2px solid;
+        margin-top: 12px;
+    }
+    .form_section{
+        color: #494949;
+        font-size: 12px;
+        padding: 55px 0px;
+        margin-bottom: 18px
+    }
+    .form input,button{
+        margin-top: 2px;
+        max-width: 160px;
+        max-height: 36px;
+        border: 2px #494949 solid;
+    }
+    .form_div h1{
+        font-size: 24px;
+    }
+    .form{
+        padding-top: 12px;
+    }
+    .footer_nav{
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    .footer_nav a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 3px;
+        font-size: 7px;
+    }
+    .footer_info img{
+        padding: 20px 0px;
+        max-width: 110px;
+        max-height: 110px;
+    }
+    .footer_info p{
+        font-size: 8px;
+    }
+    .products_line{
+        padding: 10px 40px;
+    }
+    .products_lines{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 40px 0px;
+        color: #494949;
+        font-size: 12px;
+        padding: 35px 0px;
+        border-bottom: 1px #494949 solid;
+    }
+    .product{
+        padding: 12px 0px;
+        margin: 12px 0px;
+        border-top: 2px #494949 solid;
+        border-bottom: 2px #494949 solid;
+        max-height: 300px;
+    }
+    .product img{
+        max-width: 60px;
+        max-height: 60px;
+        margin-bottom: 12px;
+    }
+    .product h2{
+        font-size: 13px;
+    }
+    .products_h1{
+        text-transform: uppercase;
+        font-size: 24px;
+        text-align: left;
+        padding-top: 40px;
+    }
+    .products_hr{
+        max-width: 158px;
+        text-align: left;
+    }
+    .souvenir_hr{
+        max-width: 308px;
+        text-align: left;
+    }
+    .delivery_text iframe{
+        max-width: 200px;
+        max-height: 200px;
+        padding-bottom: 20px;
+    }
+    .delivery_text{
+        color: #494949;
+        font-size: 12px;
+        padding-top: 12px;
+        margin-top: 12px;
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+        border-bottom: 2px #494949 solid;
+    }
+    .delivery_text h1{
+        text-transform: uppercase;
+        font-size: 24px;
+    }
+    .delivery_text hr{
+        max-width: 260px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .info_text h2{
+        font-size: 12px;
+    }
+}
